@@ -17,9 +17,19 @@
 
 
 
-Lexical Analyzer of A Custom Programming Language that Similar to C++
+Lexical Analyzer (Scanner) of A Custom Programming Language that Similar to C++ Written with FLex & C Lang.
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
+## 	:satellite:    Usage: 
+
+### At the first you can compile the ```myLang.lex``` file with _FLex_ on your own system Or you can use my pre-compiled ```lex.yy.c``` file where in current repo.
+### Next you must to compile ```myLang.c``` & ```lex.yy.c``` with a standard _C_ lang compiler (rec: gcc) and getting output as an one executable file.
+
+
+###   	:file_folder:   And at the end you can run ```a``` file and passing the source code to tokenizing.
 
 
