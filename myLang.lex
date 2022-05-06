@@ -72,9 +72,9 @@ UNS               "using namespace"[ ]+{IDENTIFIRE}
 ">>"              {printf("#TOKEN: %d# | #TYPE: OPERRATOR#            ->      ",    findIndex(TOKENS, yytext));         ECHO; printf("\n");}
 "<"               {printf("#TOKEN: %d# | #TYPE: OPERRATOR#            ->      ",    findIndex(TOKENS, yytext));         ECHO; printf("\n");}
 ">"               {printf("#TOKEN: %d# | #TYPE: OPERRATOR#            ->      ",    findIndex(TOKENS, yytext));         ECHO; printf("\n");}
+
 ","               {printf("#TOKEN: %d# | #TYPE: SEPERATOR#            ->      ",    findIndex(TOKENS, yytext));         ECHO; printf("\n");}
 ";"               {printf("#TOKEN: %d# | #TYPE: SEMICOLON#            ->      ",    findIndex(TOKENS, yytext));         ECHO; printf("\n");}
-
 
 {STRING}          {printf("#TOKEN: %d# | #TYPE: STRING#               ->      ",    findIndex(TOKENS, "string"));       ECHO; printf("\n");}
 {INCLUDE}         {printf("#TOKEN: %d# | #TYPE: INCLUDE#              ->      ",    findIndex(TOKENS, "include"));      ECHO; printf("\n");}
