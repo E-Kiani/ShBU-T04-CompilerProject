@@ -14,8 +14,8 @@ const char *KEYWORDS[] = {"auto", "break", "const", "continue", "delete", "else"
 
 const char *OPERRATORS[] = {"+", "-", "*", "/", "+=", "-=", "*=", "/=", "++", "--", "&&", "||", "&", "|", "=", "==", "<<", ">>", "<", ">", ",", ";"};
 // 22
-%}
 
+%}
 
 
 
@@ -37,7 +37,6 @@ VARINC            {IDENTIFIRE}"++"
 VARDEC            {IDENTIFIRE}"--"
 DATATYPE          "int"|"float"|"char"|"str"
 UNS               "using namespace"[ ]+{IDENTIFIRE}
-
 
 
 
@@ -104,7 +103,10 @@ UNS               "using namespace"[ ]+{IDENTIFIRE}
 
 
 
-int yywrap(void){return 1;}
+int yywrap(void)
+{
+    return 1;
+}
 
 int main(int argc, char **argv)
 {
@@ -136,9 +138,7 @@ size_t findIndex(const char *arr[], const char *val, int arrLen)
 {
     // int arrLen = 0;
     // while (arr[arrLen++] != NULL) {};
-
     // int arrLen = sizeof(arr) / sizeof(char*);
-
     // printf("%d\n", arrLen);
 
 
@@ -159,5 +159,3 @@ size_t findIndex(const char *arr[], const char *val, int arrLen)
     if (arr == OPERRATORS && index != -1){return index+13;}
     return index;
 }
-
-
