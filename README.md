@@ -12,3 +12,14 @@
     <img src="https://img.shields.io/github/stars/E-Kiani/ShBU-T04-CompilerProject?color=gold&style=plastic&cacheSeconds=3600">
 </h3>
 
+
+:star: Star me on GitHub — it motivates me a lot!
+
+
+
+Lexical Analyzer of A Custom Programming Language that Similar to C++
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
