@@ -31,5 +31,6 @@
 
 
 ###   	:file_folder:   And at the end you can run ```a``` file and passing the source code to tokenizing.
+####    (Also you can see the tokes and their id-no. in _c++, KeyWords.docx_ file.)
 
 
