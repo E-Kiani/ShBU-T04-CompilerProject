@@ -13,11 +13,11 @@
 </h3>
 
 
-:star: Star me on GitHub — it motivates me a lot!
+#### :star: Star me on GitHub — it motivates me a lot!
 
 
 
-Lexical Analyzer (Scanner) of A Custom Programming Language that Similar to C++ Written with FLex & C Lang.
+### Lexical Analyzer (Scanner) of A Custom Programming Language that Similar to C++ Written with FLex & C Lang.
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
