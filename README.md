@@ -20,7 +20,7 @@
 ## Lexical Analyzer (Scanner) of A Custom Programming Language that Similar to C++ Written with FLex & C Lang.
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 
