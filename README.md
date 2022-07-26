@@ -38,3 +38,5 @@
 
 
 ####    (Also you can see the tokes and their id-no. in _c++, KeyWords.docx_ file.)
+
+:balance_scale:     MIT License
