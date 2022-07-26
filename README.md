@@ -24,27 +24,27 @@
 
 
 ##  :toolbox: Requirements
-### You must have installed _Flex_ (with YACC or BISON) & a standard _C_ compiler on your system to compile the source files by own. Also you can use my pre-compiled source codes if you not have these compilers.
+You must have installed _Flex_ (with YACC or BISON) & a standard _C_ compiler on your system to compile the source files by own. Also you can use my pre-compiled source codes if you not have these compilers.
 
 
 
 
 ## 	:satellite:    Usage: 
 
-### At the first you can compile the ```myLang.lex``` file with _FLex_ on your own system Or you can use my pre-compiled ```lex.yy.c``` file where in current repo.
-### Next you must to compile ```myLang.c``` & ```lex.yy.c``` with a standard _C_ lang compiler (rec: gcc) and getting output as an one executable file.
+At the first you can compile the ```myLang.lex``` file with _FLex_ on your own system Or you can use my pre-compiled ```lex.yy.c``` file where in current repo.
+Next you must to compile ```myLang.c``` & ```lex.yy.c``` with a standard _C_ lang compiler (rec: gcc) and getting output as an one executable file.
 
 
-###   	:file_folder:   And at the end you can run ```a``` file and passing the source code to tokenizing.
+##   	:file_folder:   And at the end you can run ```a``` file and passing the source code to tokenizing.
 
 
-###     :camera:    Example:
+##     :camera:    Example:
 <h3 align="center"> 
     <img src="https://github.com/Es-Kiani/pseudo-cpp-compiler/blob/main/ScShts/ScSht1.PNG">
 </h3>
 
 
-####    (Also you can see the tokes and their id-no. in _c++, KeyWords.docx_ file.)
+###    (Also you can see the tokes and their id-no. in _c++, KeyWords.docx_ file.)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
