@@ -34,7 +34,9 @@
 
 
 ###     :camera:    Example:
-![](https://github.com/Es-Kiani/pseudo-cpp-compiler/blob/main/ScShts/ScSht1.PNG)
+<h3 align="center"> 
+    ![](https://github.com/Es-Kiani/pseudo-cpp-compiler/blob/main/ScShts/ScSht1.PNG)
+</h3>
 
 
 ####    (Also you can see the tokes and their id-no. in _c++, KeyWords.docx_ file.)
