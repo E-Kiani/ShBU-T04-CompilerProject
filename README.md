@@ -39,4 +39,12 @@
 
 ####    (Also you can see the tokes and their id-no. in _c++, KeyWords.docx_ file.)
 
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+Thanks! :sunglasses:
+
+Made with :heart:, C & FLex.
+
 :balance_scale:     MIT License
