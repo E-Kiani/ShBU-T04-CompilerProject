@@ -35,7 +35,7 @@
 
 ###     :camera:    Example:
 <h3 align="center"> 
-    ![](https://github.com/Es-Kiani/pseudo-cpp-compiler/blob/main/ScShts/ScSht1.PNG)
+    <img src="https://github.com/Es-Kiani/pseudo-cpp-compiler/blob/main/ScShts/ScSht1.PNG">
 </h3>
 
 
