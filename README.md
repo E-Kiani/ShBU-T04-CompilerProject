@@ -33,7 +33,8 @@
 ###   	:file_folder:   And at the end you can run ```a``` file and passing the source code to tokenizing.
 
 
-###     :camera:    ![](https://github.com/Es-Kiani/pseudo-cpp-compiler/blob/main/ScShts/ScSht1.PNG)
+###     :camera:    Example:
+![](https://github.com/Es-Kiani/pseudo-cpp-compiler/blob/main/ScShts/ScSht1.PNG)
 
 
 ####    (Also you can see the tokes and their id-no. in _c++, KeyWords.docx_ file.)
