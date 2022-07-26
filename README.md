@@ -48,4 +48,5 @@ Thanks! :sunglasses:
 
 Made with :heart:, C & FLex.
 
-:balance_scale:     MIT License
+## :balance_scale:     License
+### [MIT](https://choosealicense.com/licenses/mit/)
