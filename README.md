@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    <img src="https://img.shields.io/badge/made%20by-Esfandiar%20Kiani-informational?style=plastic&cacheSeconds=3600">
+    <img src="https://img.shields.io/badge/made%20by-Stphen-informational?style=plastic&cacheSeconds=3600">
     <img src="https://img.shields.io/badge/language-C-blueviolet?logo=c&style=plastic&cacheSeconds=3600&logoColor=orange&logoWidth=20">
     <img src="https://img.shields.io/badge/last%20version-v.2.0-success?style=plastic&cacheSeconds=3600">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=plastic&cacheSeconds=3600">
