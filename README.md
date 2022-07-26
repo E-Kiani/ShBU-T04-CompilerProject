@@ -23,6 +23,11 @@
 
 
 
+##  :paper: Requirements
+### You must have installed _Flex_ (with YACC or BISON) & a standard _C_ compiler on your system to compile the source files by own. Also you can use my pre-compiled source codes if you not have these compilers.
+
+
+
 ## 	:satellite:    Usage: 
 
 ### At the first you can compile the ```myLang.lex``` file with _FLex_ on your own system Or you can use my pre-compiled ```lex.yy.c``` file where in current repo.
