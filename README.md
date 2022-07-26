@@ -34,7 +34,8 @@ You must have installed _Flex_ (with YACC or BISON) & a standard _C_ compiler on
 At the first you can compile the ```myLang.lex``` file with _FLex_ on your own system Or you can use my pre-compiled ```lex.yy.c``` file where in current repo.
 Next you must to compile ```myLang.c``` & ```lex.yy.c``` with a standard _C_ lang compiler (rec: gcc) and getting output as an one executable file.
 
-:file_folder:   And at the end you can run ```a``` file and passing the source code to tokenizing.
+
+And at the end you can run ```a``` file and passing the source code to tokenizing.
 
 
 
