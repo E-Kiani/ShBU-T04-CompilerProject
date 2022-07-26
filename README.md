@@ -23,8 +23,9 @@
 
 
 
-##  :paper: Requirements
+##  :toolbox: Requirements
 ### You must have installed _Flex_ (with YACC or BISON) & a standard _C_ compiler on your system to compile the source files by own. Also you can use my pre-compiled source codes if you not have these compilers.
+
 
 
 
